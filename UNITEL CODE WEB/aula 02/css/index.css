@@ -1,0 +1,28 @@
+/*h1{
+    color: red;
+}
+p{
+    text-decoration: underline;
+    color: pink;
+}
+body
+{
+    background-color: ;
+}
+*/
+.titulo
+{
+    color: rgb(211, 15, 15);
+}
+
+#p
+{
+    color: rgb(18, 207, 144);
+}
+#btn
+{
+ padding: .9rem 3rem;
+ background-color: grey;
+ color: white;
+ text-decoration: none;
+}

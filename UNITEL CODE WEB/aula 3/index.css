@@ -1,0 +1,37 @@
+.container
+{
+    display: flex;
+    background-color: crimson;
+    width: 300px;
+    height: 400px;
+    flex-direction: row;
+    /*justify-content: flex-end;*/
+    flex-wrap: wrap;
+    /*justify-content: flex-start; /*trabalha na horizontal*/
+    /*align-items:flex-end;/*trabalha no meio ou seja vertical*/
+    /*flex-direction: column; -direção vertical e horizontal*/
+}
+
+.item
+{
+    width:50px ;
+    height:200px;
+}
+.item1
+{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+}
+.item2
+{
+    width: 50px;
+    height: 50px;
+    background-color:orange;
+}
+.item3
+{
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
